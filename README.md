@@ -1,6 +1,6 @@
 # Vuln Web App
 
-A deliberately vulnerable web application based on the OWASP Top 10 2021.
+A deliberately vulnerable web application based on the OWASP Top 10 2021....
 
 ## Implemented Vulnerabilities
 
